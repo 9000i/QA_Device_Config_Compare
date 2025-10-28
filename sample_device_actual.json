@@ -1,7 +1,7 @@
 
 {
   "serial": "A123",
-  "battery_level": 75,
+  "battery_level": 80,
   "network_type": "4G",
-  "firmware_version": "1.2.4"
+  "firmware_version": "1.2.3"
 }
